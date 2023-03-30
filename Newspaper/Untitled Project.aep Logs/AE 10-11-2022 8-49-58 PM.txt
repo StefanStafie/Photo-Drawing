@@ -1,0 +1,8 @@
+  10/11/2022 8:49:58 PM: Starting composition “hehe”.
+
+  Output To: C:\Users\stefa\OneDrive\Desktop\Photo\Newspaper\hehe.avi    10/11/2022 8:52:21 PM: Finished composition “hehe”.
+
+
+  Total Time Elapsed: 2 Min, 23 Sec
+Log closed on 10/11/2022 at 8:52:21 PM
+
